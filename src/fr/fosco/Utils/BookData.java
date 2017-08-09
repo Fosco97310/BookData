@@ -4,7 +4,6 @@ import fr.fosco.Plugin;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.meta.BookMeta;
 
-
 public class BookData {
 
     private BookMeta bookMeta;

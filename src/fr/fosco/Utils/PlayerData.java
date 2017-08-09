@@ -1,7 +1,5 @@
 package fr.fosco.Utils;
 
-
-
 public class PlayerData {
 
     private int coins;
