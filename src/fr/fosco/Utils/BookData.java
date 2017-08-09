@@ -7,7 +7,6 @@ import org.bukkit.inventory.meta.BookMeta;
 
 public class BookData {
 
-
     private BookMeta bookMeta;
     private Plugin main;
     public BookData(Plugin main){

@@ -12,8 +12,6 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.plugin.java.JavaPlugin;
 
 import java.util.*;
-
-
 public class Plugin extends JavaPlugin{
 
     public ItemStack book;
