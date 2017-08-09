@@ -16,11 +16,6 @@ import java.util.*;
 
 public class Plugin extends JavaPlugin{
 
-
-
-    String ste;
-    String szate;
-    String stzaze;
     public ItemStack book;
     public HashMap<UUID, PlayerData> players = new HashMap<>();
 
